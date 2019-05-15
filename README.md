@@ -6,6 +6,7 @@
 [WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/)
 
 ![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvashistha%2Fmundana-theme-jekyll.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvashistha%2Fmundana-theme-jekyll?ref=badge_shield)
 
 ### Documentation
 
@@ -49,3 +50,7 @@ Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under M
 ### Live Demo
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvashistha%2Fmundana-theme-jekyll.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvashistha%2Fmundana-theme-jekyll?ref=badge_large)
